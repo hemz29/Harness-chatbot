@@ -1,0 +1,6 @@
+{
+  "name": "Harness",
+  "description": "Grounded multi-model intelligence workspace with Claude and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
